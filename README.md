@@ -38,6 +38,7 @@ Currently looking for new opportunities where I can apply my expertise in data e
 |-----|---------|-------------|
 | **Data Engineer** | Blend360 | Diseño e implementación de pipelines de datos y soluciones de ingeniería de datos |
 | **AI Consultant** | Isomorph | Consultoría en inteligencia artificial y desarrollo de soluciones basadas en AI |
+| **QA Enginner - Support Service - Full stack developer ** | Straico | Empresa integradora de inteligencia artificial y desarrollo de soluciones basadas en AI |
 
 ---
 
